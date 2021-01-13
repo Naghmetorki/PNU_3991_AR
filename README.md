@@ -3,11 +3,11 @@
 <div dir="rtl">
   
 # رویا ملکی
-- [Github](
-- [Resume](
-- [SOP](
-- [Certificates]
-- [PNU_3991_AR](
+- [Github](https://github.com/Naghmetorki) 
+- [Resume](https://cvbuilder.me/Resume/fa/1b66aedc-0a95-402f-aa51-9e0ac7515f06?mode=2&template=PreviewDefault) 
+- [SOP](https://github.com/Naghmetorki/Sop) 
+- [Certificates](https://www.sololearn.com/Certificate/1024-20646421/pdf/) 
+- [PNU_3991_AR](https://github.com/Naghmetorki/PNU_3991_AR) 
 
 ------------------
 ## فهرست درس ها 
@@ -67,7 +67,7 @@
     <th><a>هوش مصنوعی و سیستم های خبرها</a></th>
     <th></th>
     <th></th>
-    <th><a>مباحث ویژه 1</a></th>
+    <th><a>آزمایشگاه سیستم عامل 1</a></th>
     <th>دوشنبه</th>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
     <th></th>
     <th>چهارشنبه</th>
   </tr>
-  <tr><a>اخلاق اسلامی</a></th>
+  <tr><a>کار آموزی</a></th>
     <th></th>
     <th></th>
     <th></th>

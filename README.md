@@ -4,7 +4,7 @@
   
 # نغمه ترکی
 - [Github](https://github.com/Naghmetorki) 
-- [Resume](https://cvbuilder.me/Resume/fa/1b66aedc-0a95-402f-aa51-9e0ac7515f06?mode=2&template=PreviewDefault) 
+- [Resume](https://github.com/Naghmetorki/Resume) 
 - [SOP](https://github.com/Naghmetorki/Sop) 
 - [Certificates](https://github.com/Naghmetorki/Certificates) 
 - [PNU_3991_AR](https://github.com/Naghmetorki/PNU_3991_AR) 
